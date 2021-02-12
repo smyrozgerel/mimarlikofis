@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{font-family: 'Oxygen', sans-serif;}
+
+.navbar-brand{padding-left:50px;}
+
+.logo{height:40px;}
+
+.navbar-nav{padding-right:50px;}
+
+.banner{width:100%; margin:auto; height:590px;}
+
+.textb{margin:auto; color:#FFF; background:#EA4517; position:absolute; top:80%; left:10px; opacity:0.7;}
+
+.ilogo{position:relative; top:-40px; background:#FFF; color:#EA4517; font-size:60px; }
+
+i{color:#EA4517;}
+
+hr{width:50%; margin:auto;}
+
+.kutusol{float:left; margin-top:15px;}
+
+.kutusol img{width:500px; }
+
+.kutusag{width:500px; float:right; margin-top:15px;}
+
+.card{float:left; background:#EA4517; margin:25px;}
+
+.ofis{margin-bottom:50px;}
+
+.sil{clear:both;}
